@@ -23,20 +23,10 @@ I'm an **IT student** who enjoys building efficient solutions, automating repeti
 **Currently focused on expanding my knowledge**.
 
 ```yaml
-role: Automation Developer
 focus:
-  - Python & Automation
-  - Data Structures & Algorithms
   - Clean Code & Problem Solving
-
 currently_learning:
   - Python
-  - SQL
-  - Software Engineering
-
-coding_practice:
-  - LeetCode
-  - NeetCode
 ```
 
 ---
@@ -74,19 +64,6 @@ coding_practice:
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=IceDays&theme=dark&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=58A6FF&sideNums=E6EDF3&currStreakNum=E6EDF3&dates=8B949E" alt="GitHub Streak Stats" width="75%" />
-
-</div>
-
----
-
-### <img src="https://img.shields.io/badge/04-LEETCODE_PROGRESS-0D1117?style=flat-square&labelColor=238636&color=161B22" alt="LeetCode Progress" />
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/IceDays?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8" alt="LeetCode Statistics" width="65%" />
-
-<br/><br/>
-
 
 </div>
 
